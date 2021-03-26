@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[67],{134:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Super Type Tokens","permalink":"/dddtdd-docs/blog/2021/02/18/super-type-tokens"},{"title":"\u5207\u6362\u5230docusaurus","permalink":"/dddtdd-docs/blog/2020/12/03/switch-to-docusaurus"}]}')}}]);
